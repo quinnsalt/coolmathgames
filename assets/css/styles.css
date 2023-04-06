@@ -641,6 +641,7 @@ a.login {
   max-width: 60px;
   min-width: 60px;
   transition: all .3s ease;
+  -webkit-transition: all .3s ease;
   width: 60px;
 }
 
